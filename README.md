@@ -1,0 +1,1 @@
+This is a simple Django REST API that allows users to register, log in, and access a protected endpoint that lists items. Authentication is implemented using Django REST Framework's Token Authentication.
